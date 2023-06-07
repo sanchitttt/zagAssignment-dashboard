@@ -1,6 +1,6 @@
 # Preview
 
-![Dashboard Image](https://i.ibb.co/fHRk9rn/image.png)
+![Dashboard Image](https://i.ibb.co/175SgG1/Vite-React-TS.png)
 
 # How to run the project
 
