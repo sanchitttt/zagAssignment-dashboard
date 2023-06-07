@@ -15,6 +15,12 @@
 
     1) Open your browser and enter the url http://127.0.0.1:5173/ to view the main dashboard page
 
+# Functionalities 
+    1) Can search by company name or its product
+    2) Can filter out on order type (completed,pending etc)
+    3) Can sort on basis of amount
+    4) Can edit details
+    
 # Technologies Used
 
     1) Tailwind CSS
