@@ -1,6 +1,6 @@
 # Preview
 
-![Dashboard Image]([https://i.ibb.co/KzLxcxZ/image.png](https://i.ibb.co/Npgr2WF/image.png))
+![Dashboard Image](https://i.ibb.co/Npgr2WF/image.png)
 
 # How to run the project
 
