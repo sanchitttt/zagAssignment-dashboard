@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search:focus {
+    outline: none;
+}
+
+* {
+    -webkit-user-select: none;
+    /* Safari */
+    -ms-user-select: none;
+    /* IE 10 and IE 11 */
+    user-select: none;
+    /* Standard syntax */
+}
+.hoverGrey{
+    transition: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.hoverGrey:hover{
+    background-color: #1B59F81A
+}
+
+body{
+    overflow: hidden;
+}
