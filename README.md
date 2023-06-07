@@ -19,7 +19,7 @@
     1) Can search by company name or its product
     2) Can filter out on order type (completed,pending etc)
     3) Can sort on basis of amount
-    4) Can edit details
+    4) Can edit details of an order
     
 # Technologies Used
 
